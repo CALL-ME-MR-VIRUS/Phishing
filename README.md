@@ -27,7 +27,7 @@
 # Installation :
 
 
-😈 `git clone https://github.com/lovehacker404/Phishing`
+😈 `git clone https://github.com/CALL-ME-MR-VIRUS/Phishing`
 
 😈 `cd Phishing`
 
