@@ -31,7 +31,7 @@
 
 😈 `cd Phishing`
 
-😈 `chmod +x BlackMafia.sh ngrok`
+😈 `chmod +x Phishing.sh ngrok`
 
-👾 `bash BlackMafia.sh`
+👾 `bash Phishing.sh`
 
